@@ -7,7 +7,7 @@
   "magisk": {
     "version": "23.0",
     "versionCode": "23000",
-    "link": "https://github-production-release-asset-2e65be.s3.amazonaws.com/145406928/8bfdc880-34fc-11eb-9ea5-c5ae13317399?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201204T035209Z&X-Amz-Expires=300&X-Amz-Signature=f132035750f1406a057cbef9ba83e5c1a21bb7923c97b9e06a0efad5ad4ca450&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=145406928&response-content-disposition=attachment%3B%20filename%3Driru-v23.0-release.zip&response-content-type=application%2Foctet-stream",
+    "link": "https://dev34.baidupan.com/120413bb/2020/12/04/aa1ff98c549e746aaa81edd68546e2c1.zip?st=RHkQgU7xkVYqcAvvPXywKw&e=1607061332&b=BCQMZQJwB3cDewUlB2UPOFIpDGBUeFAkCT8AYVw_bXj1UdQ5rBStRLldrU3U_c&fi=33708643&pid=119-129-118-131&up=",
     "md5": "96E4A02BF8F176153050F6FF4A39AEAD"
   },
   "uninstaller": {

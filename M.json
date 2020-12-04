@@ -1,22 +1,16 @@
 {
-    "app": {
-        "version": "1469b82a",
-        "versionCode": "315",
-        "link": "app-debug.apk",
-        "note": "notes.md"
-    },
-    "magisk": {
-        "version": "1469b82a",
-        "versionCode": "21101",
-        "link": "magisk-debug.zip",
-        "note": "notes.md",
-        "md5": "ebe5ec3f4e4e1226e387ebe7c7d06e0c"
-    },
-    "uninstaller": {
-        "link": "magisk-uninstaller.zip"
-    },
-    "stub": {
-        "versionCode": "14",
-        "link": "stub-release.apk"
-    }
+  "app": {
+    "version": "8.0.3",
+    "versionCode": "315",
+    "link": "https://abbw.ml/magisk.apk"
+  },
+  "magisk": {
+    "version": "23.0",
+    "versionCode": "23000",
+    "link": "https://github-production-release-asset-2e65be.s3.amazonaws.com/145406928/8bfdc880-34fc-11eb-9ea5-c5ae13317399?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201204T035209Z&X-Amz-Expires=300&X-Amz-Signature=f132035750f1406a057cbef9ba83e5c1a21bb7923c97b9e06a0efad5ad4ca450&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=145406928&response-content-disposition=attachment%3B%20filename%3Driru-v23.0-release.zip&response-content-type=application%2Foctet-stream",
+    "md5": "96E4A02BF8F176153050F6FF4A39AEAD"
+  },
+  "uninstaller": {
+    "link": "https://abbw.ml/uninstall.zip"
+  }
 }

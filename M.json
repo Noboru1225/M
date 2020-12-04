@@ -5,10 +5,10 @@
     "link": "https://abbw.ml/magisk.apk"
   },
   "magisk": {
-    "version": "23.0",
-    "versionCode": "23000",
-    "link": "https://dev34.baidupan.com/120413bb/2020/12/04/aa1ff98c549e746aaa81edd68546e2c1.zip?st=RHkQgU7xkVYqcAvvPXywKw&e=1607061332&b=BCQMZQJwB3cDewUlB2UPOFIpDGBUeFAkCT8AYVw_bXj1UdQ5rBStRLldrU3U_c&fi=33708643&pid=119-129-118-131&up=",
-    "md5": "96E4A02BF8F176153050F6FF4A39AEAD"
+    "version": "21.1",
+    "versionCode": "21100",
+    "link": "https://dev95.baidupan.com/120413bb/2020/12/04/f386143735c8bb55e067a50c39869f04.zip?st=Ru5sHqFo6AO7b7DBg1rocw&e=1607062393&b=AR4LalUyBWlZf1ZrBXhQIgFmXTANIgA3Ui9dKlQ6AHI_c&fi=33709229&pid=119-129-118-131&up=",
+    "md5": "53F415C52C1E8B925CA1CF22814EF101"
   },
   "uninstaller": {
     "link": "https://abbw.ml/uninstall.zip"
